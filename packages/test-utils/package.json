@@ -13,7 +13,7 @@
     "prepack": "unbuild"
   },
   "dependencies": {
-    "@nuxt/kit": "3.2.3",
+    "@nuxt/kit": "3.4.2",
     "@nuxt/schema": "3.2.3",
     "consola": "^2.15.3",
     "defu": "^6.1.2",
