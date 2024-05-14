@@ -18,7 +18,7 @@
   "dependencies": {
     "@babel/core": "^7.21.0",
     "@nuxt/friendly-errors-webpack-plugin": "^2.5.2",
-    "@nuxt/kit": "3.2.3",
+    "@nuxt/kit": "3.4.2",
     "autoprefixer": "^10.4.13",
     "css-loader": "^6.7.3",
     "css-minimizer-webpack-plugin": "^4.2.2",
